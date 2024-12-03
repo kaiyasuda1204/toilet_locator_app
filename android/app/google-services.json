@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "694212447227",
+    "project_id": "toilet-locator-b3a78",
+    "storage_bucket": "toilet-locator-b3a78.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694212447227:android:72c380df6a2698a023195e",
+        "android_client_info": {
+          "package_name": "com.example.toilet_locator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlleKvmI-IqjqV1RFz9PlAxv3Szy4Ff5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
